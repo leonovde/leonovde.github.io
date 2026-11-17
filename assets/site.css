@@ -256,7 +256,6 @@ h1 {
   padding-block: 12px 43px;
 }
 .detail-hero h1 { font-size: clamp(2.8rem, 6.1vw, 5.1rem); }
-.detail-hero p { margin-top: 17px; }
 .detail-hero .art .app-icon { width: clamp(122px, 16vw, 195px); }
 .detail-sgd .art {
   border-color: #f2dfe3;
@@ -332,8 +331,10 @@ h1 {
   padding-block: 28px 40px;
   border-top: 1px solid var(--line);
 }
-.about-section p { max-width: 72ch; }
-.about-section p + p { margin-top: 12px; }
+.about-section p, .about-section ul { max-width: 72ch; }
+.about-section p + p, .about-section ul + p { margin-top: 12px; }
+.about-section ul { padding-inline-start: 1.4em; }
+.about-section li + li { margin-top: 5px; }
 .question {
   max-width: 72ch;
   margin-bottom: 20px;
@@ -343,7 +344,7 @@ h1 {
   font-size: 1.06rem;
   line-height: 1.45;
 }
-.about-section p, .question p, .rate-reference {
+.about-section p, .about-section ul, .question p, .rate-reference {
   color: var(--muted);
   line-height: 1.65;
 }
