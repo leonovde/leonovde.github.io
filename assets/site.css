@@ -302,6 +302,13 @@ h1 {
 }
 .button-primary:hover { background: var(--deep-blue); }
 .button .arrow { color: inherit; }
+.play-store-mark {
+  width: 16px;
+  height: 18px;
+  flex: 0 0 auto;
+  clip-path: polygon(0 0, 100% 50%, 0 100%);
+  background: conic-gradient(from 45deg at 47% 50%, #fbbc04 0deg 90deg, #ea4335 90deg 180deg, #4285f4 180deg 270deg, #34a853 270deg);
+}
 .feature-section { padding-bottom: 55px; }
 .feature-list {
   display: flex;
