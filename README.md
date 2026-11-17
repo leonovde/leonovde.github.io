@@ -14,8 +14,8 @@ The canonical URLs, social metadata, structured data, sitemap, and robots file u
 
 | App | Website field | Privacy Policy field |
 |---|---|---|
-| Ringgit Today | https://leonovde.github.io/android-apps/ringgit-today/ | https://leonovde.github.io/android-apps/ringgit-today/#privacy-policy |
-| SGD Today | https://leonovde.github.io/android-apps/sgd-today/ | https://leonovde.github.io/android-apps/sgd-today/#privacy-policy |
+| Ringgit Today | https://leonovde.github.io/android-apps/ringgit-today/ | https://leonovde.github.io/android-apps/ringgit-today/privacy-policy/ |
+| SGD Today | https://leonovde.github.io/android-apps/sgd-today/ | https://leonovde.github.io/android-apps/sgd-today/privacy-policy/ |
 
 Open both policy URLs in a signed-out browser before changing the Play Console fields.
 

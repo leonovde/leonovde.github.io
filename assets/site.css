@@ -321,10 +321,12 @@ h1 {
   line-height: 1.4;
 }
 
-.questions-section {
+.about-section, .questions-section {
   padding-block: 28px 40px;
   border-top: 1px solid var(--line);
 }
+.about-section p { max-width: 72ch; }
+.about-section p + p { margin-top: 12px; }
 .question {
   max-width: 72ch;
   margin-bottom: 20px;
@@ -334,7 +336,7 @@ h1 {
   font-size: 1.06rem;
   line-height: 1.45;
 }
-.question p, .rate-reference {
+.about-section p, .question p, .rate-reference {
   color: var(--muted);
   line-height: 1.65;
 }
@@ -355,9 +357,13 @@ h1 {
   font-weight: 650;
   text-underline-offset: 3px;
 }
-.policy-section {
-  padding-block: 28px 60px;
-  border-top: 1px solid var(--line);
+.policy-page {
+  max-width: 48rem;
+  padding-bottom: 60px;
+}
+.policy-page h1 {
+  margin: 14px 0 24px;
+  font-size: clamp(2.4rem, 5vw, 3.75rem);
 }
 #exchange-rate-questions, #privacy-policy { scroll-margin-block-start: 20px; }
 .policy-copy {
@@ -367,7 +373,7 @@ h1 {
   overflow-wrap: anywhere;
 }
 .policy-copy > * + * { margin-top: 12px; }
-.policy-copy h3 {
+.policy-copy h2 {
   margin-block: 24px 0;
   color: var(--text);
   font-size: 1.04rem;
