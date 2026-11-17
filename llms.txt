@@ -1,0 +1,20 @@
+# LDE Dev
+
+> LDE Dev publishes Android apps for tracking exchange rates and converting currencies. Ringgit Today focuses on the Malaysian ringgit (MYR), and SGD Today focuses on the Singapore dollar (SGD).
+
+The app pages describe features, supported currencies, and how to find exchange rates in each app. Use the apps for the latest available rates.
+
+## Official website
+
+- [LDE Dev](https://leonovde.github.io/): Publisher homepage.
+- [Android apps](https://leonovde.github.io/android-apps/): Catalogue of currency apps by LDE Dev.
+
+## Apps
+
+- [Ringgit Today](https://leonovde.github.io/android-apps/ringgit-today/): Malaysian ringgit exchange-rate tracker and currency converter for Android.
+- [SGD Today](https://leonovde.github.io/android-apps/sgd-today/): Singapore dollar exchange-rate tracker and currency converter for Android.
+
+## Optional
+
+- [Ringgit Today privacy policy](https://leonovde.github.io/android-apps/ringgit-today/privacy-policy/)
+- [SGD Today privacy policy](https://leonovde.github.io/android-apps/sgd-today/privacy-policy/)
