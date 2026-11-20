@@ -6,4 +6,16 @@
   <url><loc>https://leonovde.github.io/android-apps/ringgit-today/privacy-policy/</loc></url>
   <url><loc>https://leonovde.github.io/android-apps/sgd-today/</loc></url>
   <url><loc>https://leonovde.github.io/android-apps/sgd-today/privacy-policy/</loc></url>
+<!-- localized-apps:start -->
+  <url><loc>https://leonovde.github.io/android-apps/ringgit-today/bn-bd/</loc></url>
+  <url><loc>https://leonovde.github.io/android-apps/ringgit-today/id/</loc></url>
+  <url><loc>https://leonovde.github.io/android-apps/ringgit-today/ms/</loc></url>
+  <url><loc>https://leonovde.github.io/android-apps/ringgit-today/ne/</loc></url>
+  <url><loc>https://leonovde.github.io/android-apps/ringgit-today/vi/</loc></url>
+  <url><loc>https://leonovde.github.io/android-apps/sgd-today/bn-bd/</loc></url>
+  <url><loc>https://leonovde.github.io/android-apps/sgd-today/id/</loc></url>
+  <url><loc>https://leonovde.github.io/android-apps/sgd-today/ms/</loc></url>
+  <url><loc>https://leonovde.github.io/android-apps/sgd-today/ne/</loc></url>
+  <url><loc>https://leonovde.github.io/android-apps/sgd-today/vi/</loc></url>
+<!-- localized-apps:end -->
 </urlset>
